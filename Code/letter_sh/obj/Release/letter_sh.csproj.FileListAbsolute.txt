@@ -1,0 +1,14 @@
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.csproj.AssemblyReference.cache
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.Form1.resources
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.Properties.Resources.resources
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.csproj.GenerateResource.cache
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\bin\Release\letter_sh.exe.config
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\bin\Release\letter_sh.exe
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\bin\Release\letter_sh.pdb
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\bin\Release\OpenTK.GLControl.pdb
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\bin\Release\OpenTK.GLControl.xml
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.csproj.CopyComplete
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.exe
+C:\Users\Светлана\source\repos\Proj_6\letter_l\letter_sh\obj\Release\letter_sh.pdb
